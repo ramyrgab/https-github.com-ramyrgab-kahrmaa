@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "http://api-kahramaa.optimumfleet.net",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
